@@ -23,7 +23,7 @@
 - Clear outputs (if desired), and inspect/run the code cell by cell, or all at once if desired
     - Assignment prompts are listed as #comments at the top of input cells
 - Have fun exploring/playing around with the data!
-#### .app
+#### .py
 - Open the app.py file with the desired code editor
 - Again, inspect the dependencies and ensure they're installed
 - Run the code
